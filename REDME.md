@@ -1,6 +1,1 @@
-Este é um projeto simples usando HTML e CSS.
-https://github.com/Evertonvcf/projeto-android
-## Visualizar Online
-
-https://github.com/Evertonvcf/projeto-android
-
+<br><a href="https://evertonvcf.github.io/projeto-cordel/projeto-cordel.html" target="_blank"><strong>Click aqui para visualizar</a>
